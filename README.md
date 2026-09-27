@@ -209,3 +209,14 @@ This project demonstrates how **SQL can be used to transform transactional busin
 
 
 The analysis covers customer behavior, product demand, shop performance, revenue distribution, order patterns, and loyalty behavior. It also demonstrates how SQL-based analysis can help identify areas of strong performance and areas requiring further attention.
+
+## Author
+
+**Anuj Mandal**
+
+If you found this project useful, feel free to explore the repository and connect with me on GitHub.
+# 📬 Contact
+
+**LinkedIn:** https://www.linkedin.com/in/anuj-mandal-627a94380/
+
+**GitHub:** https://github.com/anujmandal909090
