@@ -1,0 +1,16 @@
+shop_id,shop_name,city,state,shop_type,manager_name,opening_date
+1,Mumbai Central,Mumbai,Maharashtra,Flagship Store,Allison Hill,2016-10-14
+2,Delhi Mart,Delhi,Delhi,Franchise Outlet,Megan Mcclain,2015-09-12
+3,Bengaluru Plaza,Bengaluru,Karnataka,Franchise Outlet,Allen Robinson,2019-01-16
+4,Chennai Central,Chennai,Tamil Nadu,Online Hub,Cristian Santos,2019-05-12
+5,Hyderabad Central,Hyderabad,Telangana,Online Hub,Kevin Pacheco,2015-01-19
+6,Pune Square,Pune,Maharashtra,Flagship Store,Melissa Peterson,2016-03-30
+7,Kolkata Central,Kolkata,West Bengal,Flagship Store,Gabrielle Davis,2015-10-10
+8,Ahmedabad Plaza,Ahmedabad,Gujarat,Franchise Outlet,Lindsey Roman,2020-11-02
+9,Jaipur Junction,Jaipur,Rajasthan,Online Hub,Valerie Gray,2019-06-02
+10,Lucknow Central,Lucknow,Uttar Pradesh,Online Hub,Lisa Hensley,2019-08-15
+11,Chandigarh Plaza,Chandigarh,Punjab,Online Hub,Amber Perez,2017-04-25
+12,Kochi Square,Kochi,Kerala,Franchise Outlet,David Garcia,2017-03-23
+13,Indore Square,Indore,Madhya Pradesh,Online Hub,Holly Wood,2016-09-04
+14,Surat Mart,Surat,Gujarat,Flagship Store,Timothy Wong,2019-11-15
+15,Nagpur Plaza,Nagpur,Maharashtra,Pop-up Store,Nicholas Martin,2018-01-13

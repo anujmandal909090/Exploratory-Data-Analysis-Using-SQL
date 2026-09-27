@@ -1,0 +1,121 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,city,state,country,signup_date,loyalty_tier
+1,Wanda,Bowman,wanda.bowman1@example.com,9030564139,Female,1993-07-01,Indore,Madhya Pradesh,India,2022-07-28,Silver
+2,Shawn,Edwards,shawn.edwards2@example.com,9724238849,Male,1979-08-18,Hyderabad,Telangana,India,2023-03-16,Bronze
+3,Jeffrey,Silva,jeffrey.silva3@example.com,9287101226,Male,2008-07-05,Kolkata,West Bengal,India,2021-04-28,Gold
+4,Linda,Cruz,linda.cruz4@example.com,9480184514,Female,1983-02-07,Chennai,Tamil Nadu,India,2022-10-28,Bronze
+5,Jessica,Chavez,jessica.chavez5@example.com,9482814893,Female,2002-09-05,Pune,Maharashtra,India,2025-02-12,Bronze
+6,Christian,Farmer,christian.farmer6@example.com,9809570154,Male,1998-01-04,Chennai,Tamil Nadu,India,2022-06-17,Bronze
+7,David,Allen,david.allen7@example.com,9718227824,Male,1964-06-01,Kolkata,West Bengal,India,2022-08-22,Bronze
+8,Joseph,Obrien,joseph.obrien8@example.com,9346578713,Male,2005-03-23,Indore,Madhya Pradesh,India,2025-03-09,Bronze
+9,Courtney,Morgan,courtney.morgan9@example.com,9301031051,Female,1971-09-07,Chandigarh,Punjab,India,2022-10-10,Platinum
+10,Kayla,Ramirez,kayla.ramirez10@example.com,9997376311,Female,1986-07-09,Mumbai,Maharashtra,India,2022-02-11,Bronze
+11,Mary,Gomez,mary.gomez11@example.com,9010651333,Female,2002-02-06,Bengaluru,Karnataka,India,2021-08-21,Silver
+12,Kimberly,Taylor,kimberly.taylor12@example.com,9178108013,Female,1982-11-04,Mumbai,Maharashtra,India,2020-03-05,Bronze
+13,Carol,Tucker,carol.tucker13@example.com,9026064746,Female,1979-11-21,Pune,Maharashtra,India,2020-05-15,Gold
+14,Melissa,Cross,melissa.cross14@example.com,9723430980,Female,1992-05-28,Kolkata,West Bengal,India,2024-01-10,Silver
+15,Paul,Brown,paul.brown15@example.com,9820812191,Male,1984-10-09,Kolkata,West Bengal,India,2022-09-30,Gold
+16,Michael,Young,michael.young16@example.com,9399091699,Male,2003-05-16,Hyderabad,Telangana,India,2019-10-08,Bronze
+17,Kelly,Donovan,kelly.donovan17@example.com,9346247510,Female,1995-01-06,Mumbai,Maharashtra,India,2020-04-23,Silver
+18,Jimmy,Murillo,jimmy.murillo18@example.com,9384251354,Male,1964-02-26,Pune,Maharashtra,India,2025-05-22,Silver
+19,Brooke,Bass,brooke.bass19@example.com,9808412411,Female,1989-12-30,Lucknow,Uttar Pradesh,India,2023-07-07,Bronze
+20,Patrick,Moore,patrick.moore20@example.com,9534874016,Male,1970-09-30,Kochi,Kerala,India,2020-10-22,Platinum
+21,Sandra,Williams,sandra.williams21@example.com,9427868011,Female,1966-12-01,Chandigarh,Punjab,India,2021-02-20,Silver
+22,Theresa,Vazquez,theresa.vazquez22@example.com,9598262045,Female,1962-05-14,Kochi,Kerala,India,2019-12-16,Bronze
+23,Steven,Flynn,steven.flynn23@example.com,9331586923,Male,2003-10-14,Chennai,Tamil Nadu,India,2024-07-09,Silver
+24,Sharon,Cherry,sharon.cherry24@example.com,9025634216,Female,2002-12-11,Chandigarh,Punjab,India,2024-03-14,Gold
+25,Shane,Garrison,shane.garrison25@example.com,9754330365,Male,1999-11-01,Lucknow,Uttar Pradesh,India,2020-06-05,Silver
+26,Diana,Jones,diana.jones26@example.com,9868501429,Female,1977-06-29,Jaipur,Rajasthan,India,2023-12-17,Gold
+27,Tonya,Baker,tonya.baker27@example.com,9569816934,Female,1981-06-30,Hyderabad,Telangana,India,2019-09-11,Bronze
+28,Amanda,Graham,amanda.graham28@example.com,9356159514,Female,1999-05-08,Ahmedabad,Gujarat,India,2022-05-03,Silver
+29,Jonathon,Estrada,jonathon.estrada29@example.com,9823662994,Male,1994-02-07,Jaipur,Rajasthan,India,2021-02-03,Silver
+30,Jared,Bass,jared.bass30@example.com,9995777387,Male,1970-09-22,Chandigarh,Punjab,India,2020-12-12,Bronze
+31,Rebecca,Moyer,rebecca.moyer31@example.com,9489513433,Female,1992-04-05,Delhi,Delhi,India,2023-09-21,Gold
+32,Charles,Williams,charles.williams32@example.com,9176936763,Male,1989-12-23,Chandigarh,Punjab,India,2025-04-24,Bronze
+33,Charles,Watts,charles.watts33@example.com,9163287083,Male,2001-12-09,Bengaluru,Karnataka,India,2024-09-22,Bronze
+34,Thomas,Martinez,thomas.martinez34@example.com,9889579868,Male,1982-12-10,Ahmedabad,Gujarat,India,2019-11-09,Silver
+35,Jeremy,Moore,jeremy.moore35@example.com,9348734714,Male,1982-03-29,Ahmedabad,Gujarat,India,2024-07-11,Silver
+36,David,Rogers,david.rogers36@example.com,9236231665,Male,1964-07-03,Kochi,Kerala,India,2024-09-23,Silver
+37,Kimberly,Perry,kimberly.perry37@example.com,9909670546,Female,1980-10-20,Kolkata,West Bengal,India,2020-04-29,Bronze
+38,Scott,Ashley,scott.ashley38@example.com,9893734670,Male,1996-07-08,Nagpur,Maharashtra,India,2021-09-08,Gold
+39,James,Caldwell,james.caldwell39@example.com,9729806990,Male,1995-05-26,Indore,Madhya Pradesh,India,2024-02-14,Silver
+40,Bradley,Patterson,bradley.patterson40@example.com,9465375564,Male,1969-05-12,Indore,Madhya Pradesh,India,2024-07-24,Platinum
+41,Nicole,Decker,nicole.decker41@example.com,9080531003,Female,1964-07-26,Mumbai,Maharashtra,India,2020-08-14,Silver
+42,Curtis,Smith,curtis.smith42@example.com,9193745299,Male,1966-09-11,Ahmedabad,Gujarat,India,2019-12-24,Bronze
+43,Tracey,Higgins,tracey.higgins43@example.com,9419049663,Female,1968-07-01,Chandigarh,Punjab,India,2023-12-28,Silver
+44,Angela,Vaughn,angela.vaughn44@example.com,9491905865,Female,1965-07-12,Indore,Madhya Pradesh,India,2023-01-09,Gold
+45,Andrea,Holland,andrea.holland45@example.com,9716572628,Female,1980-10-19,Surat,Gujarat,India,2019-01-30,Platinum
+46,Tracie,Nelson,tracie.nelson46@example.com,9776945314,Female,1986-06-21,Nagpur,Maharashtra,India,2024-03-08,Bronze
+47,Sierra,Sanchez,sierra.sanchez47@example.com,9650752735,Female,1989-12-07,Ahmedabad,Gujarat,India,2021-12-24,Bronze
+48,Robert,Peterson,robert.peterson48@example.com,9480831367,Male,1994-04-18,Surat,Gujarat,India,2024-08-24,Silver
+49,Kristen,Allen,kristen.allen49@example.com,9701436349,Female,1994-10-22,Chandigarh,Punjab,India,2022-01-20,Bronze
+50,Jackie,Tran,jackie.tran50@example.com,9855744431,Female,2008-06-22,Delhi,Delhi,India,2021-03-16,Gold
+51,Nathan,Stewart,nathan.stewart51@example.com,9233749894,Male,2006-04-12,Hyderabad,Telangana,India,2023-10-07,Bronze
+52,William,Wall,william.wall52@example.com,9408240084,Male,1977-12-16,Bengaluru,Karnataka,India,2020-11-25,Bronze
+53,Melissa,Martinez,melissa.martinez53@example.com,9094777520,Female,1984-03-14,Kochi,Kerala,India,2024-07-27,Bronze
+54,David,Hensley,david.hensley54@example.com,9719022941,Male,1963-10-10,Delhi,Delhi,India,2019-09-25,Silver
+55,Wendy,Wilson,wendy.wilson55@example.com,9938677496,Female,1989-09-27,Jaipur,Rajasthan,India,2023-11-27,Silver
+56,Eric,Oliver,eric.oliver56@example.com,9334123281,Male,1996-02-29,Chennai,Tamil Nadu,India,2022-11-29,Gold
+57,Brooke,Ortiz,brooke.ortiz57@example.com,9034471349,Female,1983-03-12,Nagpur,Maharashtra,India,2023-06-04,Gold
+58,Matthew,Peck,matthew.peck58@example.com,9242102499,Male,1986-10-11,Surat,Gujarat,India,2021-09-23,Gold
+59,Tammy,Gonzales,tammy.gonzales59@example.com,9648877190,Female,1975-03-27,Ahmedabad,Gujarat,India,2022-01-03,Bronze
+60,Stacy,Navarro,stacy.navarro60@example.com,9399049027,Female,1961-11-17,Hyderabad,Telangana,India,2022-11-15,Gold
+61,Kelly,Ramos,kelly.ramos61@example.com,9671756551,Female,2008-06-28,Jaipur,Rajasthan,India,2020-10-13,Gold
+62,Scott,Rivera,scott.rivera62@example.com,9680715451,Male,1974-06-22,Ahmedabad,Gujarat,India,2023-06-14,Bronze
+63,Tracy,Powell,tracy.powell63@example.com,9876038597,Female,2008-01-25,Ahmedabad,Gujarat,India,2022-04-20,Bronze
+64,Lori,Wolf,lori.wolf64@example.com,9477109324,Female,1986-12-31,Chandigarh,Punjab,India,2020-04-21,Silver
+65,Krista,Tran,krista.tran65@example.com,9171274846,Female,2008-04-07,Kochi,Kerala,India,2019-08-07,Bronze
+66,Sandra,Baird,sandra.baird66@example.com,9639821465,Female,1987-02-05,Nagpur,Maharashtra,India,2020-07-25,Bronze
+67,Timothy,Romero,timothy.romero67@example.com,9499727875,Male,1974-03-19,Nagpur,Maharashtra,India,2024-04-06,Bronze
+68,Gary,Hines,gary.hines68@example.com,9339636057,Male,2005-05-31,Delhi,Delhi,India,2021-06-02,Silver
+69,Michael,Shepherd,michael.shepherd69@example.com,9270289517,Male,1992-06-29,Surat,Gujarat,India,2021-06-23,Silver
+70,Brett,Lozano,brett.lozano70@example.com,9217459615,Male,1967-07-23,Hyderabad,Telangana,India,2019-02-05,Bronze
+71,Samuel,Villarreal,samuel.villarreal71@example.com,9780913431,Male,1975-11-02,Ahmedabad,Gujarat,India,2021-06-09,Bronze
+72,Jessica,Garcia,jessica.garcia72@example.com,9724005045,Female,2002-07-10,Hyderabad,Telangana,India,2023-01-24,Gold
+73,Jade,Thomas,jade.thomas73@example.com,9222196937,Female,1987-10-20,Hyderabad,Telangana,India,2022-05-29,Gold
+74,Susan,Thomas,susan.thomas74@example.com,9407482175,Female,1972-10-29,Mumbai,Maharashtra,India,2021-12-16,Gold
+75,William,Evans,william.evans75@example.com,9743671369,Male,1993-10-09,Pune,Maharashtra,India,2025-03-04,Bronze
+76,Ian,Phillips,ian.phillips76@example.com,9640909743,Male,1961-09-09,Indore,Madhya Pradesh,India,2023-06-27,Platinum
+77,Lawrence,Gomez,lawrence.gomez77@example.com,9210470952,Male,1990-06-10,Indore,Madhya Pradesh,India,2023-01-31,Bronze
+78,Brandon,Phillips,brandon.phillips78@example.com,9285884247,Male,1969-01-25,Chennai,Tamil Nadu,India,2023-10-18,Gold
+79,Walter,Phillips,walter.phillips79@example.com,9712368516,Male,1999-03-29,Chennai,Tamil Nadu,India,2024-08-01,Bronze
+80,Adrian,Herrera,adrian.herrera80@example.com,9496513709,Male,1992-12-07,Lucknow,Uttar Pradesh,India,2021-12-01,Platinum
+81,Stacey,Hoffman,stacey.hoffman81@example.com,9174612004,Female,1971-04-07,Kochi,Kerala,India,2024-11-14,Bronze
+82,Whitney,Wilson,whitney.wilson82@example.com,9675869261,Female,1986-06-10,Bengaluru,Karnataka,India,2020-07-04,Silver
+83,Roy,Gilbert,roy.gilbert83@example.com,9537735158,Male,1974-01-24,Indore,Madhya Pradesh,India,2025-01-09,Gold
+84,Stephanie,Newman,stephanie.newman84@example.com,9171390053,Female,1973-11-17,Delhi,Delhi,India,2019-05-22,Silver
+85,Virginia,Buchanan,virginia.buchanan85@example.com,9839335290,Female,2000-06-20,Lucknow,Uttar Pradesh,India,2020-04-25,Silver
+86,Destiny,Riggs,destiny.riggs86@example.com,9210205395,Female,1986-07-27,Kolkata,West Bengal,India,2025-05-02,Platinum
+87,Alan,Baker,alan.baker87@example.com,9117758917,Male,1980-11-04,Delhi,Delhi,India,2019-10-24,Silver
+88,Jonathan,Dougherty,jonathan.dougherty88@example.com,9847007661,Male,1998-03-26,Delhi,Delhi,India,2019-04-12,Silver
+89,Katherine,Browning,katherine.browning89@example.com,9921249985,Female,1964-07-07,Surat,Gujarat,India,2019-06-22,Silver
+90,James,Harper,james.harper90@example.com,9611836736,Male,1984-11-26,Indore,Madhya Pradesh,India,2020-11-21,Platinum
+91,Gerald,Chavez,gerald.chavez91@example.com,9654527111,Male,1965-03-15,Pune,Maharashtra,India,2021-09-01,Silver
+92,Anna,Davis,anna.davis92@example.com,9809885165,Female,1999-08-08,Delhi,Delhi,India,2023-09-27,Silver
+93,Shelly,Pugh,shelly.pugh93@example.com,9049451983,Female,2004-08-06,Mumbai,Maharashtra,India,2021-09-17,Gold
+94,Brittney,Olson,brittney.olson94@example.com,9851493689,Female,1977-06-11,Delhi,Delhi,India,2024-06-08,Silver
+95,Lisa,Day,lisa.day95@example.com,9402445502,Female,2005-03-26,Chandigarh,Punjab,India,2019-03-03,Gold
+96,Sheila,Knight,sheila.knight96@example.com,9018366752,Female,1967-06-13,Kochi,Kerala,India,2021-07-28,Bronze
+97,Jacob,Griffith,jacob.griffith97@example.com,9102290147,Male,1987-11-19,Kochi,Kerala,India,2023-12-26,Silver
+98,Mary,Tucker,mary.tucker98@example.com,9815614978,Female,1973-10-01,Lucknow,Uttar Pradesh,India,2021-11-01,Gold
+99,Mary,Williams,mary.williams99@example.com,9034324451,Female,1989-05-28,Ahmedabad,Gujarat,India,2021-07-15,Silver
+100,Aimee,Burgess,aimee.burgess100@example.com,9388516060,Female,1978-11-20,Pune,Maharashtra,India,2020-02-16,Gold
+101,Joe,Miller,joe.miller101@example.com,9664160529,Male,1981-03-30,Hyderabad,Telangana,India,2021-01-03,Gold
+102,Joe,Norris,joe.norris102@example.com,9136968164,Male,1981-08-07,Indore,Madhya Pradesh,India,2021-04-27,Silver
+103,Nichole,Walker,nichole.walker103@example.com,9188355231,Female,1964-04-21,Pune,Maharashtra,India,2023-12-31,Bronze
+104,Brianna,Gonzalez,brianna.gonzalez104@example.com,9127799799,Female,1997-02-16,Bengaluru,Karnataka,India,2022-11-12,Silver
+105,Erica,Maddox,erica.maddox105@example.com,9774490581,Female,1981-09-29,Indore,Madhya Pradesh,India,2021-01-10,Bronze
+106,Emily,Hayes,emily.hayes106@example.com,9119986798,Female,2000-07-23,Nagpur,Maharashtra,India,2019-05-14,Silver
+107,Tiffany,Stevenson,tiffany.stevenson107@example.com,9935978207,Female,2004-04-09,Jaipur,Rajasthan,India,2019-04-07,Bronze
+108,Brian,Nolan,brian.nolan108@example.com,9820377889,Male,1994-12-04,Delhi,Delhi,India,2021-03-15,Bronze
+109,Caitlin,Watson,caitlin.watson109@example.com,9590515186,Female,1980-04-04,Ahmedabad,Gujarat,India,2020-10-24,Silver
+110,Duane,Cummings,duane.cummings110@example.com,9251925462,Male,2004-02-22,Kochi,Kerala,India,2023-03-19,Silver
+111,Linda,Hurley,linda.hurley111@example.com,9528168505,Female,1978-09-19,Ahmedabad,Gujarat,India,2020-12-26,Gold
+112,Eric,Bean,eric.bean112@example.com,9332214188,Male,1997-05-31,Hyderabad,Telangana,India,2021-03-11,Bronze
+113,Russell,Stephenson,russell.stephenson113@example.com,9929622292,Male,1976-10-20,Hyderabad,Telangana,India,2019-03-30,Silver
+114,Michelle,Williams,michelle.williams114@example.com,9794738347,Female,1995-03-06,Ahmedabad,Gujarat,India,2021-05-03,Silver
+115,Stephanie,Lee,stephanie.lee115@example.com,9774688623,Female,1988-01-07,Kolkata,West Bengal,India,2023-05-09,Platinum
+116,Rebecca,Taylor,rebecca.taylor116@example.com,9581814124,Female,1991-06-01,Pune,Maharashtra,India,2020-08-08,Gold
+117,Joann,Palmer,joann.palmer117@example.com,9375060685,Female,1965-01-14,Hyderabad,Telangana,India,2024-05-01,Bronze
+118,David,Vang,david.vang118@example.com,9152204727,Male,1961-12-28,Kochi,Kerala,India,2021-05-28,Bronze
+119,Jerry,Smith,jerry.smith119@example.com,9289861434,Male,1972-12-02,Kochi,Kerala,India,2019-07-05,Silver
+120,Bryan,Allen,bryan.allen120@example.com,9117980893,Male,1990-07-14,Chennai,Tamil Nadu,India,2023-02-06,Bronze

@@ -1,0 +1,61 @@
+product_id,product_name,category,brand,cost_price,selling_price,stock_quantity
+1,Cosco Football,Sports,Cosco,8651.78,12922.06,52
+2,Nike Running Shoes,Fashion,Nike,14391.23,18777.39,135
+3,boAt Smartphone,Electronics,boAt,38925.97,51395.53,282
+4,Himalaya Hair Serum,Beauty,Himalaya,14497.32,17926.37,35
+5,Samsung Laptop,Electronics,Samsung,39409.6,60489.52,443
+6,Nike Sneakers,Fashion,Nike,18163.74,27706.06,83
+7,Cosco Football,Sports,Cosco,26823.5,39318.4,349
+8,Adidas Cotton T-Shirt,Fashion,Adidas,21388.89,26953.53,236
+9,Funskool Board Game,Toys,Funskool,8823.63,11434.78,393
+10,Samsung Wireless Earbuds,Electronics,Samsung,32211.58,42858.29,33
+11,Bloomsbury Comic Book,Books,Bloomsbury,12621.38,18237.23,202
+12,Nestle Green Tea Pack,Grocery,Nestle,5628.23,8359.3,275
+13,Himalaya Shampoo,Beauty,Himalaya,35918.02,47761.28,112
+14,Bajaj Storage Container Set,Home & Kitchen,Bajaj,3681.83,4312.17,56
+15,Philips Bedsheet Set,Home & Kitchen,Philips,27235.22,38630.0,197
+16,Hot Wheels Puzzle Set,Toys,Hot Wheels,21188.12,33625.23,440
+17,Apple Laptop,Electronics,Apple,30755.52,40076.87,150
+18,Hasbro Puzzle Set,Toys,Hasbro,179.65,264.97,368
+19,Himalaya Hair Serum,Beauty,Himalaya,7187.14,11216.84,445
+20,Himalaya Sunscreen,Beauty,Himalaya,7996.5,10541.48,82
+21,OnePlus LED TV,Electronics,OnePlus,19569.8,23490.42,185
+22,Nivea Face Wash,Beauty,Nivea,9672.82,13593.32,40
+23,Nike Running Shoes,Fashion,Nike,39120.48,54366.43,64
+24,Milton Study Lamp,Home & Kitchen,Milton,6646.82,9222.15,310
+25,Hasbro Board Game,Toys,Hasbro,30222.84,44138.66,365
+26,L'Oreal Perfume,Beauty,L'Oreal,26012.63,35042.79,264
+27,Tata Cooking Oil 1L,Grocery,Tata,9026.66,11753.96,301
+28,Bloomsbury Self-Help Guide,Books,Bloomsbury,337.27,495.29,30
+29,Penguin Fiction Novel,Books,Penguin,34392.43,40647.92,121
+30,L'Oreal Moisturizer,Beauty,L'Oreal,21592.4,31859.77,451
+31,Nestle Assorted Biscuits,Grocery,Nestle,32309.51,39924.36,49
+32,Funskool Puzzle Set,Toys,Funskool,16473.54,25348.27,27
+33,Levi's Jeans,Fashion,Levi's,29142.13,44012.39,55
+34,HarperCollins Self-Help Guide,Books,HarperCollins,21474.62,26050.48,93
+35,L'Oreal Moisturizer,Beauty,L'Oreal,34985.71,41420.39,413
+36,Levi's Denim Jacket,Fashion,Levi's,38761.4,60733.89,434
+37,HarperCollins Cookbook,Books,HarperCollins,19451.36,24240.02,205
+38,Samsung Power Bank,Electronics,Samsung,136.11,180.44,474
+39,Amul Assorted Biscuits,Grocery,Amul,27878.83,41225.19,401
+40,Nestle Cooking Oil 1L,Grocery,Nestle,11903.48,18877.96,296
+41,Sony Wireless Earbuds,Electronics,Sony,2053.19,2801.69,470
+42,Prestige Study Lamp,Home & Kitchen,Prestige,3250.45,4009.82,304
+43,Zara Jeans,Fashion,Zara,4839.47,7504.22,126
+44,OnePlus Smartphone,Electronics,OnePlus,16798.04,23729.79,267
+45,Cosco Football,Sports,Cosco,26805.55,34616.22,135
+46,Hasbro Action Figure,Toys,Hasbro,18316.12,28720.74,479
+47,Levi's Sunglasses,Fashion,Levi's,24865.31,34894.66,51
+48,Adidas Formal Shirt,Fashion,Adidas,20260.09,24506.72,178
+49,Zara Hoodie,Fashion,Zara,11435.25,15405.38,278
+50,Himalaya Hair Serum,Beauty,Himalaya,26176.35,30194.95,418
+51,Lakme Moisturizer,Beauty,Lakme,10615.41,16457.82,380
+52,IKEA Electric Kettle,Home & Kitchen,IKEA,24212.95,35663.87,104
+53,Himalaya Shampoo,Beauty,Himalaya,10082.29,15714.98,26
+54,Nike Sneakers,Fashion,Nike,1811.27,2354.83,66
+55,Nivea Perfume,Beauty,Nivea,17701.33,25977.59,287
+56,Apple Smartphone,Electronics,Apple,37804.79,55231.24,76
+57,Sony Bluetooth Speaker,Electronics,Sony,17219.98,20127.11,186
+58,Sony Smartwatch,Electronics,Sony,27298.56,39586.19,181
+59,Hot Wheels Remote Control Car,Toys,Hot Wheels,37034.26,46534.73,83
+60,Milton Non-Stick Pan,Home & Kitchen,Milton,7215.46,11299.55,400
